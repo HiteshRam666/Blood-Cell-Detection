@@ -104,7 +104,7 @@ YOLO, short for **You Only Look Once**, is one of the fastest and most accurate 
 
 We welcome contributions from the community! Here's how you can contribute:
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
+2. Create a new branch.
 3. Make your changes.
-4. Push to the branch (`git push origin feature/your-feature`).
+4. Push to the branch.
 5. Create a pull request.
